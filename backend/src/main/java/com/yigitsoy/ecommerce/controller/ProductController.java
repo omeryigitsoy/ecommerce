@@ -1,2 +1,4 @@
-package com.yigitsoy.ecommerce.controller;public class ProductController {
+package com.yigitsoy.ecommerce.controller;
+
+public class ProductController {
 }

@@ -1,2 +1,4 @@
-package com.yigitsoy.ecommerce.service;public class ProductService {
+package com.yigitsoy.ecommerce.service;
+
+public class ProductService {
 }
